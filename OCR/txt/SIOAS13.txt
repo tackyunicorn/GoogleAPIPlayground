@@ -1,0 +1,51 @@
+just the results, conditional rodies and virtual structures and significant flexibility to hypeYmedia. they alion Specific rodies to be responsive
+to changing conditions in other nodes of the hyperdocument. For instance, decision trees can be implemented using smart nodes hy
+ha sing new decisions on noies trat contain the results of previous decisions, the major SuYprise of this research was an
+impoYiani limitation of SmaYi rodes, Suppose you had defined an inference computation for a specific noie, embedded it in trat
+node and found that it workeri fine, but now you wanted to apply the same computation to other nodes without
+explicitly entering the condition or query in each of the other nodes. more generally, Suppose you wanted to apply the
+computation as an operation on an arbitrary list of nodes, tris turned out to be a critical concern because it
+was impoYtant to be able to do this within the inferencing language it sei.7. adding SmaYi links the idea of Substitutina
+a definition for a tey; in a query is known as mac Yo expansion, the definition of SmaYi (inks as mac Yes
+tu Yns out to be an extremely powerful mechanism for the inferencing language. hecair Se of tre was tre Substitution is implementeri,
+recursive definitions of Smart (links are possible. this allows simply stated queries to evaluate tree structures and easily display transitive
+ciosu Yes, in hoti hreadtr-first and depth-first order an accomplishment not matched hy relational query languages like sq. du ving the Yesearch,
+tre process was refined to distinguish between macros and predicates, a predicate is like a mac Yo; however, when its Yesivits
+are displayed, they are labeled to appear as trough the preciicate were a primitive link type, this is critical for
+tre u Sey, now when the iu Sey Says, primitive links, which are the traditional link types of rupeYmedia. TmacYos, which add
+Significant inferencing power. Preciicates, which use the power of macros hiut ride the complexity from the iu Sey. Predicates tike required
+prerequisites had to be defined and the differences between types, macYOS and predicates had to be considered during system development,
+but the eventual iu Sey can use the computational power without knowing that no links exist between student nodes and theiY
+required prerequisites, the predicates took like simple links to the user, therefore, they are called smaYt, computed or inferrei (inks.
+SmaYt (inks overcome the limitation of SmaYt nodes. because mac Yos and predicates are syntactically equivalent to primitive link types, they
+can be bound to arhitYayy noies or lists of noies as if they were actual. (inks coming out of those
+nodes, SmaYt links to Yned out to be so powerful and flexible that the academic advising application was primarily developed with
+trem, SmaYi nodes were incoporated for only a few Special situations, (the application will be described later in this yepoYt.)
+the future: intelligent hypeYmedia the implementation of SmaYi nodes and SmaYi (inks in effect defines a new paYadigm of intelligent
+hypeYmedia, in which tre elements of tre system tre rodies and the links are not necessarily fixed text (or aYapries),
+hiut can in general include any queYu Yesults, tre inferencing language is therehty conceptualized as integral to the system elements.
+the new pavadigm of intelligent hypeYmedia represents a leap of abstYaction with major pYactical implications, these implications ill. need to
+he explored in the future, tre major consequence of the new paradigm is that all. noces can be conceptualized as
+query Yesults, this means that the inferencing language and the hypeYmedia built on it must incorporate all media on an
+equal footing, so that query Yesults can display text, numbers, truth values, drawings, hit maps, animation, Sound, etc. inferencing and
+Computation mechanisms must be fully polymorphic, so they can be applied to content from any mierniu rym. Fu Ytreymoye, if noies can
+contain query Yesults, then they are typically lists of elements Yatrey tran single elements of text, araphics, etc. this means
+all rode processing must be list-orienteri. an example of a query in the future system might be, display the kitchen
+with appliances which are less than 6 feet high but more than 3 feet high and are seen from the
+doorway. this might yesult in the display of several graphical objects YepYesenting appliances meeting the stated conditions and viewed from
+the specified perspective. that is, this query which might be the content of a rode which the user can navigate
+to evaluates to a computed list of graphical objects the new paradigm has particulariy hroad consequences for graphics, composite drawings,
+Yatrey tran heina conceived as fixed aYYangements of polylines, could he troYovaniy Yeconceptualized to integrate inference language queries, correspondingly, the
+Syntax of the inference language could be extended to encapsulate computations of Scale, Spatial transformations in 3-0, hidden plane Yemoval,
+etc. detail-on-demand could similaviy be incorporated, so that only details above a specified or calculated extent would be displayed. a
+Folio-up avant to the research YepoYted here is Suppoyting research-expi.oying mechanisms for iYtival copying of payts of tre rypeYmedia network,
+implementing a kind of local versionina. this work introduces the notion of inheritance, inheritance has pYoven to be a fundamental
+concept for other a work, it could conceivably have broad use in intelligent rypeYmeriia. In addition to inheritance of specific
+networks of rooies and links, tre noie and link tupes could payticipate in inrevitarce nieYaYchies. trus, Foy example, tre Studio
+COLYSes type could be a kind of the couYses type, then inference about studio couYses could take advantage of this
+Yelationship as well as these defined by primitive and smaYt links in the network. tre envisioned form of intelligent hypermedia
+has sufficient power that all displays in an application could be defined as queries in the inference language, then there
+would be no system-defined SC Yeers, like general. Yo Seys in which the user can become "lost in kupeyspace." all application Screens
+Would be under the complete control of the user tr Yough the formulation of appropriate queries, (this report will discuss features
+of the cityYeni version of the language that make it plaie Sihie that a non-expeYt u Sey could reasonably be expected to
+handie Such a powerful. inferencing language.) an example of inference having Yerviewed the goals, progress and implications of the

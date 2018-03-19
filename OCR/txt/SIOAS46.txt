@@ -1,0 +1,51 @@
+civ Yviciuium, there are no ways for teachers to share their experiences, these problems can be overcome with centralized repositories of
+carefully structured cu Yriculum and indexed yescu Yces, the repositories should suppoYt two-way communication, so that teachers can share their experiences using
+materials in the repositories and can "arow" the Yepositories. tca s profiler, explorer and veYsions components work together for information
+retrieval. the profiler helps teacheYs define peyspectives for a payticular classroom and locates cuYriculum and yescu Yces that match the perspective.
+tre explorer displays these items and allows the teachey to SeaYch tryouar tre to find yelated items, the explorey uses
+an interface similar to tre mac findey OY in 15 explorey to navigate ac Yoss links between a ciYYiculium, its weekiu units,
+their lesson plans and treiy individual. Yesu Yces, versions tren helps the teachey Select from alternative versions that have been adapted
+hty Otrey teacheYS. tr. Ycuar trese interfaces, teacheYS can locate the available materials that most closely match they peysonal needs; tris
+makes it easier to cirstomize the materials to classYoom requirements, tca s planney, eciitor and networkey components help the teacher
+to prepare yescu Yces and cu Yriculum for use and to share the results of classroom Successes, the planner (figure 2) is
+a design environment for Yeir sing and reorganizing lesson plans, note that the planney interface displays a variety of linked information
+in a iu Seful format for teacheYs to study and manipulate. ali tre educational Yescu Yces linked to a lesson plan are
+(isted togethey were they can he YeaYYanged oy selectively deleted; treiy recommended classroom and homeWork times are added up as
+a guide; lists of required materials, prerequisites and preparation steps are compiled, in addition, a critiquing component displays Suggestions and
+warnings within the plan, reye, Yelevant inter-related information is gathered together in a display trat can print out the teachey
+s familiar lesson plan, the editor allows the teacher to modify and adapt indirici val. Yescu Yces (texts, Spreadsheets, Yaalinas, quizzes, collections
+of weh pointers), this is a primary means for personalizing the civ Yviciulu Tm. Finally, the networkey Supports interactions sitt tre internet,
+pYoviding a two-way mediis T of communication with a global community of teacheYS, iu Sing the networkey, a teachey can share Successfully
+customized versions of standard civ Yriculum Vitr Othey teacheys who might have similay needs, the personalized leaYney s medium (Pim) illis SiYates
+how Sereyal mechanisms can be used synergistically to transform generalized information in an educational digital. ih Yayy on the weh into
+personalized information in a student s hrowser. the pł.m technical appYoach integrates customization ideas, mechanisms and industry standards from tca,
+heYmes and html. this appYoach can be applied to classroom applications Oy to learning-on-demand features in software for professionals, where
+information relevant to the current task is tailored to the person and to the task. Pl.m was originally proposed for
+people learning irigir energy paYticle prysics, this is a field where students have to go over the Same material. Several
+times, at different levels of mathematical Sophistication, there is little continuity in the available textbooks, to stayt, there are a
+rumhey of popular books tai tr ro matrematics. tren there are some requiying Siehstantial background in mathematical physics, next, come riani
+technical texts and then the very specialized rotation of the civ Ynals, the problem is that students come with different backgrounds
+and the texts use an assoYtment of seemingly incompatible formalisms, the idea herind pl.m is to provide one consistent and
+comprehensive hypertext scu Yce Mtr paths through it at different levels, hy Specifying a perspective, a reader determines the level of
+material to be presented, including the amount of historical backgYound, of mathematical elaboration Oy of experimental description, the hypertext foYmat
+allows a reader to explore Yelated material to Supplement the peYspectivai patir, e.g., to get a refresheY on some forgotten
+mathematical. Foymalis. personalization in plm takes place in eight sequential stages within the process of selecting materials from the digital.
+lihvary, analyzing them into hypertext nodes and links and synthesizing selected contents into a personalized display, the stages typically take
+piace automatically, but the iu Sey can intervene wr en desired, the learney defines a profile of the materials sought in an
+educational digital uh Yay. this profile includes characteristics of the learney as well. tre profile is used by pim to formulate
+a queyy tirat yetYieles a selection of materials from the lihvary, the profile functions as a iu Sey model for the
+software, but one that is under the control of the iu Sey, descriptions of selected materials are displayed in an explorey
+window, the leaYmeY u Ses this interface to browse among related ih YaYu Yesu Yces, such as textual Selections, software tools, historical background,
+u Serui. mathematical techniques, Yelevant video clips, hy providing for hvowsing within the confines of the profile Search, pl.m gives the
+lea Yney freedom to explore withcui tre danger of becoming lost. tre digital lih YaYy may include multiple versions of a given
+yescu Yce. For instance, a physics prohiei might be approached using a graphical simulation, equations or computey programming. the learney can
+Select the most appealing approach, documents are broken down into theiy elements (as hypertext noies), connected hy, typeci rupeYtext links.
+the link types are based on the element s nimi markup type (e.g., titie). this is done automatically by Pi...
+ciu Storm node and link types may he defined by leaYmeY SOY by their teachers, the leaYney S Profile defines a perspective.
+tre ciuYyently active perspective Selects which rodies and links can be vieweri, this allows riiultiple, yedundant forms of information to
+he present in Yescu Yces in tre tik Yayy, of which ali but one for Mi he filtered cut, for instance, many
+people may have annotated a paYticular Yescu Yce, but a learney may want to filter Cut all annotations except her own,
+rey teachers and rey classmates . then she would define they own peyspective and rave it incorporate key teacher
+S and her class in order to view what they vieres in their perspectives, ali plm displays are created dynamically
+hy queries in the hypeYmedia navigation language. statements in the language in effect Specify starting nodies, types of links to
+travey Se ani cha Yacteristics of nodes to Filter Cut, execution of a statement takes place within a Selectei perspective and

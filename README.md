@@ -1,2 +1,2 @@
-# CloudVisionPlayground
-A playground for all things related to the Google Cloud Vision API
+# GoogleAPIPlayground
+A playground for all things related to Google API
